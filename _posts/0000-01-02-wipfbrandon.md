@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+Action is greater than reaction
 Use the left arrow to go back!
